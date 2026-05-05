@@ -35,7 +35,7 @@ Membandingkan nilai anggaran secara numerik.
 - Normalisasi ke rentang **[0, 1]** menggunakan min-max scaling  
 - Rumus kesamaan:
 - similarity = 1 - |perbedaan|
-- - Nilai anggaran yang lebih dekat menghasilkan skor lebih tinggi  
+- Nilai anggaran yang lebih dekat menghasilkan skor lebih tinggi  
 
 ⚠️ Metrik ini memiliki kontribusi terbesar terhadap skor akhir.
 
