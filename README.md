@@ -1,7 +1,7 @@
 # IntegrasiData_ETS
 
 Moch Rafy Adhipramana Effendy - 6026242012
-Repository ini berisi implementasi dan penjelasan mengenai **Deteksi Anomali Pengadaan Barang/Jasa (PBJ)** menggunakan pendekatan **Klasifikasi Berbobot**.
+## Repository ini berisi implementasi dan penjelasan mengenai **Deteksi Anomali Pengadaan Barang/Jasa (PBJ)** menggunakan pendekatan **Klasifikasi Berbobot**.
 
 ---
 
